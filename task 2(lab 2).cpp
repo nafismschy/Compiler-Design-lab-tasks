@@ -19,10 +19,7 @@ int main() {
             std::cout << "operator: " << ch << "\n";
 
         }
-        else
-        {
-            std::cout << "operator not found: ";
-        }
+        
 
     }
 
