@@ -1,0 +1,6 @@
+sum1
+int_num
+8name
+$sum1
+_sum2
+-sum3
